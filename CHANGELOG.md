@@ -1,7 +1,7 @@
 # CHANGELOG
 
-## {DATE}
-### Contributors
+## 4/5/2024
+### Qianyun Wang
 ...
 
 ### Added
